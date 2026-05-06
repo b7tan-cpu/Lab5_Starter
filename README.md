@@ -1,2 +1,13 @@
 # Lab 5 - Starter
-Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
+## Names
+Binteng Tan
+
+## GitHub Pages Links
+Expose: https://b7tan-cpu.github.io/Lab5_Starter/expose.html  
+Explore: https://b7tan-cpu.github.io/Lab5_Starter/explore.html  
+
+## Unit Testing Answers
+
+1) No, because messaging involves multiple components and interactions, so unit testing alone is not sufficient.
+
+2) Yes, because max message length is a single function and can be tested independently.
